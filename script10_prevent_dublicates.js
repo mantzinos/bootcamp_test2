@@ -14,6 +14,7 @@ function displayItems(){
   itemsFromStorage.forEach(each=>addItemToDOM(item));
   checkUI();
 }
+//hello girls
 
 
 function onAddItemSubmit(e) {
